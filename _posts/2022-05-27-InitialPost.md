@@ -1,2 +1,6 @@
+---
 layout: post
-title: To Initialize
+title: Kick Blog
+---
+
+Fun with code
